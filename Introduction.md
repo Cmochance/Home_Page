@@ -6,14 +6,12 @@
 
 我是一名热爱编程的开发者，喜欢探索新技术和解决各种有趣的问题。
 
-## 技术栈
+## 网站
 
-- Python
-- JavaScript
-- HTML/CSS
-- Flask
-- Vue.js
-- React
+墨城主站: mochance.xyz/www.mochance.xyz
+墨城api中转站: api.mochance.xyz
+墨城测测心理服务: cece.mochance.xyz
+自动科研画图: draw.mochance.xyz
 
 ## 项目展示
 
